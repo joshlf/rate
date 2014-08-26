@@ -7,4 +7,6 @@ license that can be found in the LICENSE fil
 rate
 ====
 
+[![Build Status](https://travis-ci.org/synful/rate.svg)](https://travis-ci.org/synful/rate) [![GoDoc](https://godoc.org/github.com/synful/rate?status.svg)](https://godoc.org/github.com/synful/rate)
+
 Go utilities for dealing with rates
